@@ -1,2 +1,2 @@
-# REAL-TIME-RESPONSIVE-AUTOMATED-WINDOW-AND-WATER-SUPPLY-OPERATOR-FOR-INDOOR-PLANTATIONS-USING-IOT
+# Smart-IoT-Irrigation-System
 In agriculture, efficient resource management and environmental control are paramount for maximizing crop yield and ensuring sustainable practices. Traditional methods often fall short in several key areas, leading to significant challenges as Inefficient Water Usage, Inconsistent Temperature Regulation.
